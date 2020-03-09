@@ -1,5 +1,5 @@
 ## Binary Classification on Beer Reivews
-My overall objective of this porject is to use user reviews on beers from BeerAdvocate to predict if a user will enjoy a beer type or not based on their other reviews. 
+My overall objective of this project is to use user reviews on beers from BeerAdvocate to predict if a user will enjoy a beer type or not based on their other reviews. 
 
 
 ### Data Collecting and Cleaning - noteboook 
