@@ -16,7 +16,7 @@ The first notebook will
 User features to make:
    - total number of reviews the user has done: user_total_review_count  
    
- 	_user-type features_ -
+ _user-type features_ -
    - number of reviews for each type by user: user_type_review_count
    - ratio of reviews of type compared to total reviews: user_review_type_ratio 
    - number of types of beers user has reviewed: user_review_number_of_types  
