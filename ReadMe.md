@@ -58,3 +58,5 @@ The purpose of this notebook is to:
 - train/test and evaluate the models
 - plot models
 - create new features to improve model
+
+### You can find my Medium article [here](https://medium.com/@samantharood2/analyzing-beer-reviews-be2432bd489f)
