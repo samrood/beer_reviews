@@ -2,7 +2,7 @@
 My overall objective of this project is to use user reviews on beers from BeerAdvocate to predict if a user will enjoy a beer type or not based on their other reviews. 
 
 
-### Data Collecting and Cleaning - noteboook 
+## Data Collecting and Cleaning - noteboook 
 The first notebook will 
 - collect beer reviews data from kaggle
 - do an inital clean of the data 
@@ -50,7 +50,7 @@ Brewery features to make:
 
 
 
-### Creating model - notebook 
+## Creating model - notebook 
 The purpose of this notebook is to:
 - obtain the data from AWS
 - create features
@@ -59,4 +59,4 @@ The purpose of this notebook is to:
 - plot models
 - create new features to improve model
 
-### You can find my Medium article [here](https://medium.com/@samantharood2/analyzing-beer-reviews-be2432bd489f)
+## You can find my Medium article [here](https://medium.com/@samantharood2/analyzing-beer-reviews-be2432bd489f)
